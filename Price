@@ -15,5 +15,5 @@ int main()
         price-=per;
         ans+=price;
     }
-    printf("%lld",ans);
+    printf("%lld\n",ans);
 }
